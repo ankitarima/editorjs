@@ -29,7 +29,21 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/editorjs/header@latest.js",
+              "src/assets/js/editorjs/simple-image@latest.js",
+              "src/assets/js/editorjs/delimiter@latest.js",
+              "src/assets/js/editorjs/list@latest.js",
+              "src/assets/js/editorjs/checklist@latest.js",
+              "src/assets/js/editorjs/quote@latest.js",
+              "src/assets/js/editorjs/code@latest.js",
+              "src/assets/js/editorjs/embed@latest.js",
+              "src/assets/js/editorjs/table@latest.js",
+              "src/assets/js/editorjs/link@latest.js",
+              "src/assets/js/editorjs/warning@latest.js",
+              "src/assets/js/editorjs/marker@latest.js",
+              "src/assets/js/editorjs/inline-code@latest.js"
+            ]
           },
           "configurations": {
             "production": {
